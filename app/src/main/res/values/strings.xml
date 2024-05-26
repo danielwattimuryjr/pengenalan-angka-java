@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Pengenalan Angka</string>
+    <string name="title_activity_test">TestActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_learn">Learn</string>
+
+    <string name="essay_one">Jika ada 5 kelereng di atas meja, dan kamu mengambil 2.\nBerapa kelereng yang terisisa di atas meja?</string>
+    <string name="essay_two">Bu Tuti mempunyai 3 keranjang apel. \nSetiap keranjang apel berisi 5 apel.\n Setelah itu, Bu Tuti memberikan 2 keranjang apel kepada tetangganya.\nBerapa total apel yang dimiliki Bu Tuti sekarang?</string>
+    <string name="essay_three">Ayah membeli 3 bungkus permen. Setiap bungkus permen berisi 4 permen. \nBerapa total permen yang dimiliki Ayah?</string>
+    <string name="essay_four">Di taman bermain ada 7 anak laki-laki dan 5 anak perempuan. \nKemudian datang 3 anak laki-laki lagi. \nBerapa total anak-anak yang ada di taman bermain sekarang?</string>
+
+</resources>

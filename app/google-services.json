@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "125177245529",
+    "project_id": "pengenalan-angka",
+    "storage_bucket": "pengenalan-angka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125177245529:android:65c9d0e92f97e5856e6648",
+        "android_client_info": {
+          "package_name": "com.example.pengenalanangka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXe2WrAjzReh_npCSR3tWPGtK2659dQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
